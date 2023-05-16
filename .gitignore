@@ -1,0 +1,4 @@
+useless
+testignore.txt 
+*.pdf
+!test.pdf
